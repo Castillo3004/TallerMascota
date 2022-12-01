@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379922010198",
+    "project_id": "mascotastaller-4746d",
+    "storage_bucket": "mascotastaller-4746d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379922010198:android:3d75fa3973f7a45f986bf7",
+        "android_client_info": {
+          "package_name": "com.example.tallermascota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379922010198-d574a175fjpof005lauej88damcn4dbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9x20-3Ea4vivmKB2YiygvtlJ__g3GH1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379922010198-d574a175fjpof005lauej88damcn4dbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
